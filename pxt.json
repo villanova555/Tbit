@@ -1,0 +1,19 @@
+{
+    "name": "Tbit",
+    "version": "1.0.0",
+    "description": "Extension for YahBoom Tiny:bit V2.0.3(Jp)",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "neopixel": "github:YahboomTechnology/pxt-neopixel",
+        "microphone": "*"
+    },
+    "files": [
+        "README.md",
+        "main.ts",
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "public": true
+}
